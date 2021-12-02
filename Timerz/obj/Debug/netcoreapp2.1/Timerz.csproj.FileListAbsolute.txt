@@ -1,0 +1,13 @@
+C:\Users\cbmar\source\repos\Timerz\Timerz\bin\Debug\netcoreapp2.1\Timerz.deps.json
+C:\Users\cbmar\source\repos\Timerz\Timerz\bin\Debug\netcoreapp2.1\Timerz.runtimeconfig.json
+C:\Users\cbmar\source\repos\Timerz\Timerz\bin\Debug\netcoreapp2.1\Timerz.runtimeconfig.dev.json
+C:\Users\cbmar\source\repos\Timerz\Timerz\bin\Debug\netcoreapp2.1\Timerz.dll
+C:\Users\cbmar\source\repos\Timerz\Timerz\bin\Debug\netcoreapp2.1\Timerz.pdb
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.csproj.CoreCompileInputs.cache
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.AssemblyInfoInputs.cache
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.AssemblyInfo.cs
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.dll
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.pdb
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.csproj.AssemblyReference.cache
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbmar\source\repos\Timerz\Timerz\obj\Debug\netcoreapp2.1\Timerz.genruntimeconfig.cache
